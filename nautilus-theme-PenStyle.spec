@@ -11,7 +11,6 @@ Requires:	nautilus
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 BuildArch:	noarch
 
-%define		_prefix		/usr/X11R6
 
 %description
 Pen Style theme. CPU intensive (vector icons.)
