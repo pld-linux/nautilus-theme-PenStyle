@@ -9,6 +9,7 @@ Source0:	http://www.lucidus.btinternet.co.uk/nautilus/PenStyle.tar.gz
 URL:		http://sunshineinabag.co.uk/
 Requires:	nautilus
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
+BuildArch:	noarch
 
 %define		_prefix		/usr/X11R6
 
