@@ -6,6 +6,7 @@ Release:	1
 License:	Free
 Group:		X11/Amusements
 Source0:	http://www.lucidus.btinternet.co.uk/nautilus/PenStyle.tar.gz
+# Source0-md5:	e1bebf44f2e0e3dafbbb197efd6442a4
 URL:		http://sunshineinabag.co.uk/
 Requires:	nautilus
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
