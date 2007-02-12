@@ -1,5 +1,5 @@
 Summary:	Pen Style theme
-Summary(pl):	Motyw Pen Style
+Summary(pl.UTF-8):   Motyw Pen Style
 Name:		nautilus-theme-PenStyle
 Version:	1.0
 Release:	1
@@ -16,8 +16,8 @@ BuildArch:	noarch
 %description
 Pen Style theme. CPU intensive (vector icons).
 
-%description -l pl
-Motyw Pen Style (rysowany d≥ugopisem). Zjada duøo czasu procesora z
+%description -l pl.UTF-8
+Motyw Pen Style (rysowany d≈Çugopisem). Zjada du≈ºo czasu procesora z
 powodu wektorowych ikonek.
 
 %prep
