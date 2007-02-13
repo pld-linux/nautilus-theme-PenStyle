@@ -1,5 +1,5 @@
 Summary:	Pen Style theme
-Summary(pl.UTF-8):   Motyw Pen Style
+Summary(pl.UTF-8):	Motyw Pen Style
 Name:		nautilus-theme-PenStyle
 Version:	1.0
 Release:	1
